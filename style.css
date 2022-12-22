@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+
+h1 {
+    color:rgb(62, 91, 253);
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight:500;
+    font-family: 'Saira Condensed', sans-serif;
+}
+
+#star-color {
+    display: inline;
+    float: right;
+    color:rgb(62, 91, 253)
+}
+
+#star-blank {
+    color: gray;
+}
+
+td:hover {
+    background-color: rgb(240, 240, 240);
+}
